@@ -1,5 +1,7 @@
 {
   "name": "appmaps",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
